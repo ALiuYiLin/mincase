@@ -1,0 +1,3 @@
+[submodule "example-vite-plugin-mock"]
+	path = example-vite-plugin-mock
+	url = https://github.com/ALiuYiLin/example-vite-plugin-mock.git
