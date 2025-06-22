@@ -1,0 +1,25 @@
+{
+  "name": "mincase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev ",
+    "docs:build": "vitepress build ",
+    "docs:preview": "vitepress preview "
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "scliuyilin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "fast-glob": "^3.3.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-container": "^4.0.0",
+    "sass-embedded": "^1.89.2",
+    "unplugin-vue-components": "^28.7.0",
+    "vite-plugin-svg-icons": "^2.0.1",
+    "vitepress": "^1.6.3"
+  }
+}
