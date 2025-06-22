@@ -11,6 +11,7 @@ export default defineConfig({
   lastUpdated:true,
   // lang:'zh',
   srcDir:"src",
+  base:'/mincase/',
   markdown:{
     config: (md) => mdPlugin(md)
   },
